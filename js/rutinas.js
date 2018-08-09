@@ -16,8 +16,7 @@ function formulario(){
         mult--;
         if (mult==1) {
             mult=7;
-        }        
-        
+        }                
     }    
     var dv=(11-(suma % 11));
     if (dv==10) {
